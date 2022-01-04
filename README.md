@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mungoj
+- I'm currently a student of computer science. 
+- At the moment learning Assembly language for the 68000 microprocessor.
+- Plenty of background reading on the history of computing.
